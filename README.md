@@ -21,7 +21,6 @@ We will be evaluate the performance of these models through accuracy socres, con
 ## Results (Balanced Accuracy Scores, Confusion Matrixes and Imbalanced Classification Reports)
 
 ### RandomOverSampler model
-<p align="center">
 ![RandomOverSampler](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/ros_acc.png?raw=true "RandomOverSampler")
 ![RandomOverSampler](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/ros_conf.png?raw=true "RandomOverSampler")
 ![RandomOverSampler](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/ros_class_rep.png?raw=true "RandomOverSampler")
@@ -32,7 +31,6 @@ Verdict: This model should not be used to predict credit risk and/or loan applic
 <br><br>
 
 ### SMOTE model
-<p align="center">
 ![SMOTE](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smote_acc.png?raw=true "SMOTE")
 ![SMOTE](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smote_conf.png?raw=true "SMOTE")
 ![SMOTE](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smote_class_rep.png?raw=true "SMOTE")
@@ -43,7 +41,6 @@ Verdict: This model should not be used to predict credit risk and/or loan applic
 <br><br>
 
 ### ClusterCentroids model
-<p align="center">
 ![Cluster Centroids](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/cc_acc.png?raw=true "Cluster Centroids")
 ![Cluster Centroids](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/cc_conf.png?raw=true "Cluster Centroids")
 ![Cluster Centroids](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/cc_class_rep.png?raw=true "Cluster Centroids")
@@ -54,7 +51,6 @@ Verdict: This model should not be used to predict credit risk and/or loan applic
 <br><br>
 
 ### SMOTEENN model
-<p align="center">
 ![SMOTEENN](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smoteenn_acc.png?raw=true "SMOTEENN")
 ![SMOTEENN](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smoteenn_conf.png?raw=true "SMOTEENN")
 ![SMOTEENN](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/smoteenn_class_rep.png?raw=true "SMOTEENN")
@@ -65,7 +61,6 @@ Verdict: This model should not be used to predict credit risk and/or loan applic
 <br><br> 
 
 ### BalancedRandomForestClassifier model
-<p align="center">
 ![BalancedRandomForestClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/brfc_acc.png?raw=true "BalancedRandomForestClassifier")
 ![BalancedRandomForestClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/brfc_conf.png?raw=true "BalancedRandomForestClassifier")
 ![BalancedRandomForestClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/brfc_class_rep.png?raw=true "BalancedRandomForestClassifier")
@@ -76,7 +71,6 @@ Verdict: This model can be used to predict credit risk and/or loan application a
 <br><br>
 
 ### EasyEnsembleClassifier model
-<p align="center">
 ![EasyEnsembleClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/eec_acc.png?raw=true "EasyEnsembleClassifier")
 ![EasyEnsembleClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/eec_conf.png?raw=true "EasyEnsembleClassifier")
 ![EasyEnsembleClassifier](https://github.com/sterlingvm/Credit_Risk_Analysis/blob/main/Resources/eec_class_rep.png?raw=true "EasyEnsembleClassifier")
