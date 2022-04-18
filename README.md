@@ -62,7 +62,7 @@ Verdict: This model should not be used to predict credit risk and/or loan applic
 The balanced accuracy score is 65%.<br>The high_risk precision is 1% and has a sensitivity of 70%, the F1 score is 2%.<br>The low_risk precision is 100% and has a sensitivity of 61%, the F1 score is 75%.<br> 
 
 Verdict: This model should not be used to predict credit risk and/or loan application approval or denial.
-<br><br>
+<br><br> 
 
 ### BalancedRandomForestClassifier model
 <p align="center">
